@@ -5,7 +5,7 @@
 ------------------------------------------------------------------------------------
 
 
->Primeiramente gere o model Banco:
+Primeiramente gere o model Banco:
 
 + rails generate model banco
 
