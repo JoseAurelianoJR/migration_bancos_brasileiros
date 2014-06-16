@@ -11,14 +11,9 @@ Primeiramente gere o model Banco:
 
 Copiar o conteudo da migration 20140616181401_create_bancos.rb e colar na migration gerada
 
-#####Gerar uma migrantion para preencher os dados
+#####Preencher o arquivo de seeds com o conteudo do arquivo seeds.rb
 
-+ rails generate migration PopulaBancosBrasileiros
-
-e Copie o conteudo do arquivo "20140616182246_popula_bancos_brasileiros.rb" e cole ma migration gerada.
-
-agora rode sua migration e pronto.
-
+Agora execute a migration criada e execute o seed #####rake db:seed
 
 
 #####Contribuições são bem vindas
