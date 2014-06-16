@@ -13,7 +13,8 @@ Copiar o conteudo da migration 20140616181401_create_bancos.rb e colar na migrat
 
 #####Preencher o arquivo de seeds com o conteudo do arquivo seeds.rb
 
-Agora execute a migration criada e execute o seed #####rake db:seed
+Agora execute a migration criada e execute o seed 
+>rake db:seed
 
 
 #####Contribuições são bem vindas
